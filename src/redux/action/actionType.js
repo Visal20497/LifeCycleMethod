@@ -1,0 +1,7 @@
+export let ENTER="ENTER"
+export let SET="SET"
+export let INC="INC"
+export let ADD="ADD"
+export let LOADING="LOADING"
+export let FETCHED="FETCHED"
+export let ERROR="ERROR"
